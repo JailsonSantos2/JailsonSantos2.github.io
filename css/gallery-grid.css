@@ -1,6 +1,7 @@
 body {
     background-image: linear-gradient(to top, #ecedee 0%, #eceeef 75%, #e7e8e9 100%);
     min-height: 100vh;
+    padding-top: 40px;
 }
 
 .container.gallery-container {
@@ -9,8 +10,8 @@ body {
     color: black;
     border-radius: 20px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.8);
-    margin: 10px auto 10px auto;
-    padding-top: 15px;
+    margin: 50px auto 10px auto;
+    padding-top: 25px;
 
 }
 
@@ -19,7 +20,7 @@ body {
     color: black;
     border-radius: 25px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.8);
-    margin: 10px auto 10px auto;
+    margin: 40px auto 10px auto;
     padding: 50px;
 
 }
@@ -86,7 +87,7 @@ body {
     color: black;
     border-radius: 25px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.8);
-    margin: 10px auto 10px auto;
+    margin: 75px auto 10px auto;
     padding: 10px;
 
     }

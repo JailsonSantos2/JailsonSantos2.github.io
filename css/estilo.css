@@ -1,12 +1,8 @@
 /*Estilos Personalizados*/
 /*Configuração do TOPO*/
 
-.bg-cor{
-	background-color: black;
-}
-
-.bg-topo{
-	margin-right: -5px;
+body{
+	padding-top: 40px;
 }
 
 .bg-sombra{
